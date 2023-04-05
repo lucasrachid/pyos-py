@@ -6,6 +6,7 @@ from pyarch import cpu_t
 from time import sleep
 from process_executor import process_executor as ProcessExecutor
 
+# GRUPO: LUCAS RACHID MARTINS, JOILE JUNIOR
 class os_t:
 	def __init__ (self, cpu, memory, terminal):
 		self.cpu = cpu
